@@ -1,1 +1,1 @@
-# Biochemistry_2022
+This repository contains R scripts used to generate data and figures as well as the serialized Random Forest models for Horvath et al. 2022 manuscript on the toxic effect of amino acid changes in relation to condensate formation. 
